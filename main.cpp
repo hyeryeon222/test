@@ -1,7 +1,8 @@
 #include <iostream>
 # 202102021 컴퓨터공학부 안혜련 
-using namespace std;
-
+using namespace std
+print("hello")
+    
 class Dessert{
 private:
     int onega;
